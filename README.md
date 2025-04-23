@@ -1,3 +1,5 @@
-This folder contains all the codes of my work. All the codes are in the [info_geo_plos] folder. 
+This folder contains all the codes of my work. The information rate calculation code is in the [info_geo_plos] folder. 
 
 ***For interested user, please go through the codes as I have included the desciptions in all the codes***
+
+The example of 
